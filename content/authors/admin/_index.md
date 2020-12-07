@@ -20,7 +20,7 @@ education:
       year: 2020
     - course: B.Eng. in Building Environment and Energy Engineering
       institution: Guangzhou University
-      year: 2015
+      year: 2018
 email: ""
 superuser: true
 user_groups:
